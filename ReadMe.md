@@ -8,7 +8,7 @@
 
 [README](./src/test02/README_test02.md)
 
-## Test03: How to infinite scroll with FE
+## Test03: How to share logic don't use global state and context api
 
 [README](./src/test03/README_test03.md)
 
